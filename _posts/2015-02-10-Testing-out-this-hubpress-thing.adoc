@@ -1,7 +1,8 @@
 = Testing out this hubpress thing
+:hp-tags: hubpress,github
 
 This morning I saw a tweet from the guys at @goKarumi talking about an web application that got your a blog running on github pages in no time.
 
 This is me trying it out!
 
-And to be honest I am very impressed for the time being
+And to be honest I am very impressed for the time being!
