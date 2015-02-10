@@ -1,10 +1,1 @@
-{
-  "meta": {
-    "username": "kevohagan",
-    "repositoryName": "blog",
-    "branch": "gh-pages"
-  },
-  "theme": {
-    "name": "Casper"
-  }
-}
+{"meta":{"username":"kevohagan","repositoryName":"blog","branch":"gh-pages"},"site":{"title":"Blog","description":"This is kevohagan's blog","url":"http://kevohagan.github.io/blog"},"socialnetwork":{},"theme":{"name":"Casper","url":"http://kevohagan.github.io/blog/themes/Casper"}}
