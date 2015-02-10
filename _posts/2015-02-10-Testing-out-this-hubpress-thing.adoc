@@ -1,4 +1,4 @@
-# Testing out this hubpress thing
+= Testing out this hubpress thing
 
 This morning I saw a tweet from the guys at @goKarumi talking about an web application that got your a blog running on github pages in no time.
 
